@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650">
+<rect width="900" height="650" fill="#f5f7fb"/><rect width="900" height="82" fill="#2457a6"/>
+<text x="38" y="52" font-family="Arial" font-size="29" fill="white" font-weight="bold">Агрегатор курсів валют</text>
+<rect x="70" y="140" width="760" height="400" rx="20" fill="white" stroke="#ccd4e0"/>
+<text x="105" y="195" font-family="Arial" font-size="27" font-weight="bold" fill="#263238">Стан: порожні дані</text>
+<text x="420" y="330" font-family="Arial" font-size="64" fill="#78909c">□</text>
+<text x="330" y="420" font-family="Arial" font-size="21" fill="#546e7a">Немає доступних даних</text>
+</svg>

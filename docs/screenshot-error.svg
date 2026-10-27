@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650">
+<rect width="900" height="650" fill="#f5f7fb"/><rect width="900" height="82" fill="#2457a6"/>
+<text x="38" y="52" font-family="Arial" font-size="29" fill="white" font-weight="bold">Агрегатор курсів валют</text>
+<rect x="70" y="140" width="760" height="400" rx="20" fill="white" stroke="#ccd4e0"/>
+<text x="105" y="195" font-family="Arial" font-size="27" font-weight="bold" fill="#263238">Стан: помилка</text>
+<circle cx="450" cy="300" r="43" fill="#ffebee"/><text x="439" y="315" font-family="Arial" font-size="42" fill="#c62828">!</text>
+<text x="280" y="390" font-family="Arial" font-size="21" fill="#546e7a">Усі банки тимчасово недоступні</text>
+<rect x="370" y="440" width="160" height="42" rx="21" fill="#2457a6"/><text x="405" y="468" font-family="Arial" font-size="18" fill="white">Повторити</text>
+</svg>

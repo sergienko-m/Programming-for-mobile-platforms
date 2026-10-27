@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650">
+<rect width="900" height="650" fill="#f5f7fb"/><rect width="900" height="82" fill="#2457a6"/>
+<text x="38" y="52" font-family="Arial" font-size="29" fill="white" font-weight="bold">Агрегатор курсів валют</text>
+<rect x="70" y="140" width="760" height="400" rx="20" fill="white" stroke="#ccd4e0"/>
+<text x="105" y="195" font-family="Arial" font-size="27" font-weight="bold" fill="#263238">Стан: дані завантажено</text>
+<text x="105" y="245" font-family="Arial" font-size="20" fill="#263238">Monobank     Купівля 40.02     Продаж 40.34</text>
+<text x="105" y="295" font-family="Arial" font-size="20" fill="#263238">PrivatBank   Купівля 39.98     Продаж 40.31</text>
+<text x="105" y="345" font-family="Arial" font-size="20" fill="#263238">PUMB         Купівля 40.08     Продаж 40.39</text>
+<rect x="105" y="390" width="690" height="80" rx="14" fill="#e8f5e9"/><text x="130" y="425" font-family="Arial" font-size="19" fill="#263238">Найвигідніша купівля: PUMB</text><text x="130" y="455" font-family="Arial" font-size="19" fill="#1b5e20" font-weight="bold">Найвигідніший продаж: PrivatBank</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650">
+<rect width="900" height="650" fill="#f5f7fb"/><rect width="900" height="82" fill="#2457a6"/>
+<text x="38" y="52" font-family="Arial" font-size="29" fill="white" font-weight="bold">Агрегатор курсів валют</text>
+<rect x="70" y="140" width="760" height="400" rx="20" fill="#e8f5e9" stroke="#81c784"/>
+<text x="105" y="195" font-family="Arial" font-size="27" font-weight="bold" fill="#263238">Стан: real-time оновлення</text>
+<text x="105" y="280" font-family="Arial" font-size="22" fill="#263238">↗ Біржовий курс USD/UAH</text>
+<text x="105" y="355" font-family="Arial" font-size="58" fill="#1b5e20" font-weight="bold">40.15</text>
+<text x="610" y="345" font-family="Arial" font-size="26" fill="#2e7d32" font-weight="bold">+0.64%</text>
+<text x="105" y="445" font-family="Arial" font-size="20" fill="#546e7a">Оновлення потоку: кожні 2 секунди</text>
+</svg>

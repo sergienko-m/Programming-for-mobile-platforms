@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650">
+<rect width="900" height="650" fill="#f5f7fb"/><rect width="900" height="82" fill="#2457a6"/>
+<text x="38" y="52" font-family="Arial" font-size="29" fill="white" font-weight="bold">Агрегатор курсів валют</text>
+<rect x="70" y="140" width="760" height="400" rx="20" fill="white" stroke="#ccd4e0"/>
+<text x="105" y="195" font-family="Arial" font-size="27" font-weight="bold" fill="#263238">Стан: завантаження</text>
+<circle cx="450" cy="330" r="48" fill="none" stroke="#2457a6" stroke-width="9" stroke-dasharray="100 55"/>
+<text x="325" y="445" font-family="Arial" font-size="22" fill="#546e7a">Завантаження курсів…</text>
+</svg>
